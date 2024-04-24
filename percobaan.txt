@@ -1,9 +1,9 @@
 Harapan bisa istiqomah dalam belajar.
 1. 2024
--belajar laravel
 -belajar git
 
 2.2024
 - Belajar Ushul Fiqih
 - Membaca Al-Munir
+- Membuat Website Profesional
 
